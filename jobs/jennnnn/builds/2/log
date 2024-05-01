@@ -1,0 +1,8 @@
+Started by user [8mha:////4Kr+LQ3cunO6twChDzxDUrQFoEnnDkHjtiPA6R9pHvwkAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZB/dLi1CL9vJTEouKMxDwzU0sAuvmHy8YAAAA=[0mDarshan N
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/jennnnn
+[jennnnn] $ /bin/sh -xe /tmp/jenkins12688572100159956327.sh
++ cd /var/lib/jenkins/workspace/git-c-final
++ make ABC.exe
+make: 'ABC.exe' is up to date.
+Finished: SUCCESS

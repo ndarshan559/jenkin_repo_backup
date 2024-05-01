@@ -1,0 +1,11 @@
+Started by user [8mha:////4Kr+LQ3cunO6twChDzxDUrQFoEnnDkHjtiPA6R9pHvwkAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZB/dLi1CL9vJTEouKMxDwzU0sAuvmHy8YAAAA=[0mDarshan N
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/jenc
+[jenc] $ /bin/sh -xe /tmp/jenkins15004562522313533022.sh
++ cd /var/lib/jenkins/workspace/git-c-final/
++ make ABC.exe
+gcc -c main.c
+make: gcc: No such file or directory
+make: *** [makefile:5: main.o] Error 127
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

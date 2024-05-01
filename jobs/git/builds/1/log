@@ -1,0 +1,22 @@
+Started by user [8mha:////4Kr+LQ3cunO6twChDzxDUrQFoEnnDkHjtiPA6R9pHvwkAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZB/dLi1CL9vJTEouKMxDwzU0sAuvmHy8YAAAA=[0mDarshan N
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/git
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/ndarshan559/jenkin.git
+ > git init /var/lib/jenkins/workspace/git # timeout=10
+Fetching upstream changes from https://github.com/ndarshan559/jenkin.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/ndarshan559/jenkin.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/ndarshan559/jenkin.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision d909107139a5c9e22a3c90203215b9eece5e2dbc (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f d909107139a5c9e22a3c90203215b9eece5e2dbc # timeout=10
+Commit message: "commit all files"
+First time build. Skipping changelog.
+Finished: SUCCESS
